@@ -1,0 +1,106 @@
+body{
+    background-color: black;
+}
+img{
+    height:350px;
+    width: 400px;
+}
+article{
+    display:flex;
+}
+article img{
+    margin:10px 20px 0px 0px;
+}
+h6{
+    font-size:30px;
+    text-align: center;
+    color: white;
+}
+
+h1{
+     color:white;
+}
+
+
+p{
+    font-size: 20px;
+    color: white;
+}
+h3{
+    color: white;
+    margin:10px 20px 50px 50px;
+}
+
+
+iframe{
+        margin: 0px 0px 30px 320px;
+        height:400px ;
+        width:700px ;
+    }
+    ul{
+        list-style-type: none;
+        display: flex;
+        flex-direction:row;
+        justify-content:space-evenly;
+        padding:0;
+        
+    }
+    nav li:hover{
+        background-color:red;
+        color:white;
+        font-size:18px;
+         }
+         ul{
+            list-style-type: none;
+            display: flex;
+            flex-direction:row;
+            justify-content:space-evenly;
+            padding:0;
+            
+        }
+        header{
+            background-color: black;
+        }
+
+        nav a {
+            text-decoration: nome;
+            color: black;
+        }
+
+        nav li{
+            background-color: red;
+            padding: 15px 25px;
+            border-radius: 15px;
+        }
+
+        nav li : houver {
+            background-color: ;
+            color: aquamarine;
+            font-size: 150%;
+        }
+
+        li{
+            background-color: white;
+            font-size:18px ;
+            height:18px;
+        }
+        input{
+            margin: 38px 0px;
+        }
+        button{
+             margin-top:15px;
+             transition: all.5s;
+        }
+        button:hover{
+            background-color:white ;
+            color: white;
+            transform: scale(1.2);
+        }
+     
+        
+        #div{
+            background-color: white;
+            color: white;
+            padding: 15px;
+            margin: 12px 100px;
+        }
